@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="korea_permission_group_tags">
         <item>0</item>
@@ -33,8 +33,8 @@
         <item>Esegui il backup di applicazioni, layout Home e sfondi</item>
         <item>Esegui il backup di impostazioni importanti, incluse quelle di Wi-Fi e schermo</item>
         <item>"Controlla da remoto se hai perso il tuo dispositivo"</item>
-	</string-array>	
-	<string-array name="micloud_entrance_subtitleArray_china">
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
         <item>Sincronizza i tuoi contatti, messaggi, note, calendario ed altro</item>
         <item>Esegui il backup di applicazioni, layout Home e sfondi</item>
         <item>Esegui il backup di impostazioni importanti, incluse quelle di Wi-Fi e schermo</item>
@@ -125,15 +125,15 @@
         <item>Attiva la sincronizzazione</item>
         <item>Note;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
     </string-array>
-	<string-array name="settings_search_phrase">
-        <item>Sincronizza le risposte rapide</item>
-        <item>Attiva la sincronizzazione</item>
-        <item>Risposte rapide;Appunti;Modifica;Cloud;Sync;Servizi Cloud</item>
-    </string-array>
     <string-array name="settings_search_personal_assistant">
         <item>Sincronizza Assistente App con Mi Cloud</item>
         <item>Attiva la sincronizzazione</item>
         <item>Assistente App;Schede;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Sincronizza le risposte rapide</item>
+        <item>Attiva la sincronizzazione</item>
+        <item>Risposte rapide;Appunti;Modifica;Cloud;Sync;Servizi Cloud</item>
     </string-array>
     <string-array name="settings_search_recorder">
         <item>Sincronizza le registrazioni con Mi Cloud</item>
@@ -175,7 +175,7 @@
         <item>Attiva sincronizzazione</item>
         <item>Wi-Fi;wifi;WLAN;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
     </string-array>
-	<string-array name="settings_search_wlan_china">
+    <string-array name="settings_search_wlan_china">
         <item>Sincronizzazione impostazioni WI-Fi con Mi Cloud</item>
         <item>Attiva sincronizzazione</item>
         <item>Wi-Fi;wifi;WLAN;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>

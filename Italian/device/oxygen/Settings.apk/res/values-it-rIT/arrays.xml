@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-     <string-array name="app_ops_labels">
+    <string-array name="app_ops_labels">
         <item>Posizione</item>
         <item>Posizione</item>
         <item>Posizione</item>
@@ -65,8 +65,8 @@
         <item>Attiva schermo</item>
         <item>Recupera account</item>
         <item>Esegui in background</item>
-     </string-array>
-     <string-array name="app_ops_summaries">
+    </string-array>
+    <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
         <item>posizione precisa</item>
         <item>GPS</item>
@@ -131,11 +131,11 @@
         <item>attiva schermo</item>
         <item>recupera account</item>
         <item>esegui in background</item>
-     </string-array>
-     <string-array name="wifi_signal">
-		<item>Scadente</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Scadente</item>
         <item>Discreta</item>
         <item>Buona</item>
         <item>Eccellente</item>
-     </string-array>
+    </string-array>
 </resources>

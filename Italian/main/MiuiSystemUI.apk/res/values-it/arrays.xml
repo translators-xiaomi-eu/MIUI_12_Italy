@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="animator_duration_scale_entries">
         <item>Animazioni disattivate</item>
@@ -56,7 +56,7 @@
         <item>Ottimizzato per qualità di connessione (330kbps/303kbps)</item>
         <item>MIgliore possibile (Bit Rate adattivo)</item>
     </string-array>
-     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Usa selezione di sistema (Predefinito)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
@@ -162,7 +162,7 @@
         <item>Verso sinistra</item>
         <item>Verso destra</item>
     </string-array>
-        <string-array name="select_logpersist_summaries">
+    <string-array name="select_logpersist_summaries">
         <item>Disattivato</item>
         <item>Tutti i buffer log</item>
         <item>Tutti tranne i buffer log radio</item>

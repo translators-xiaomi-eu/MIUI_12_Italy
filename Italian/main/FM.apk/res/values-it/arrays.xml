@@ -1,73 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="sleep_duration_values">
-        <item>15 minuti</item>
-        <item>30 minuti</item>
-        <item>45 minuti</item>
-        <item>1 ora</item>
-    </string-array>
-    <string-array name="search_category_rbds_entries">
-        <item>Tutte le stazioni</item>
-        <item>Grandi Hit</item>
-        <item>Classica</item>
-        <item>Rock Classico</item>
-        <item>Universitaria</item>
-        <item>Country</item>
-        <item>Emergenza</item>
-        <item>Test Emergenza</item>
-        <item>Lingua Straniera</item>
-        <item>Informazione</item>
-        <item>Jazz</item>
-        <item>Notizie</item>
-        <item>Nostalgia</item>
-        <item>Classici</item>
-        <item>Personalità</item>
-        <item>Publica</item>
-        <item>Musica Religiosa</item>
-        <item>Talk Religioso</item>
-        <item>Rhythm and Blues</item>
-        <item>Rock</item>
-        <item>Soft</item>
-        <item>Soft Rock</item>
-        <item>Soft Rhythm and Blues</item>
-        <item>Sport</item>
-        <item>Talk</item>
-        <item>Top 40</item>
-        <item>Meteo</item>
-    </string-array>
-    <string-array name="search_category_rds_entries">
-        <item>Tutte le stazioni</item>
-        <item>Cultura</item>
-        <item>Attualità</item>
-        <item>Programmi per ragazzi</item>
-        <item>Musica Country</item>
-        <item>Documentario</item>
-        <item>Drama</item>
-        <item>Musica Leggera</item>
-        <item>Educativo</item>
-        <item>Emergenza</item>
-        <item>Test di Emergenza</item>
-        <item>Finanza</item>
-        <item>Musica Folk</item>
-        <item>Informazione</item>
-        <item>Jazz</item>
-        <item>Classica leggera</item>
-        <item>Leisure</item>
-        <item>Notizie</item>
-        <item>Musica Nazionale</item>
-        <item>Altra Musica</item>
-        <item>Grandi Classici</item>
-        <item>Telefono</item>
-        <item>Pop</item>
-        <item>Religione</item>
-        <item>Rock</item>
-        <item>Scienza</item>
-        <item>Classica seria</item>
-        <item>Tematiche sociali</item>
-        <item>Sport</item>
-        <item>Viaggi</item>
-        <item>Varie</item>
-        <item>Meteo</item>
+    <string-array name="cfg_rf">
+        <item>Imposta il delta RSSI per FM</item>
+        <item>Imposta la soglia del segnale</item>
+        <item>Statistiche RF</item>
     </string-array>
     <string-array name="presetlist_edit_category">
         <item>Rinomina</item>
@@ -157,10 +93,68 @@
         <item>Ottieni i parametri di ampiezza della banda FM</item>
         <item>Configura i parametri di ricerca FM</item>
     </string-array>
-    <string-array name="cfg_rf">
-        <item>Imposta il delta RSSI per FM</item>
-        <item>Imposta la soglia del segnale</item>
-        <item>Statistiche RF</item>
+    <string-array name="search_category_rbds_entries">
+        <item>Tutte le stazioni</item>
+        <item>Grandi Hit</item>
+        <item>Classica</item>
+        <item>Rock Classico</item>
+        <item>Universitaria</item>
+        <item>Country</item>
+        <item>Emergenza</item>
+        <item>Test Emergenza</item>
+        <item>Lingua Straniera</item>
+        <item>Informazione</item>
+        <item>Jazz</item>
+        <item>Notizie</item>
+        <item>Nostalgia</item>
+        <item>Classici</item>
+        <item>Personalità</item>
+        <item>Publica</item>
+        <item>Musica Religiosa</item>
+        <item>Talk Religioso</item>
+        <item>Rhythm and Blues</item>
+        <item>Rock</item>
+        <item>Soft</item>
+        <item>Soft Rock</item>
+        <item>Soft Rhythm and Blues</item>
+        <item>Sport</item>
+        <item>Talk</item>
+        <item>Top 40</item>
+        <item>Meteo</item>
+    </string-array>
+    <string-array name="search_category_rds_entries">
+        <item>Tutte le stazioni</item>
+        <item>Cultura</item>
+        <item>Attualità</item>
+        <item>Programmi per ragazzi</item>
+        <item>Musica Country</item>
+        <item>Documentario</item>
+        <item>Drama</item>
+        <item>Musica Leggera</item>
+        <item>Educativo</item>
+        <item>Emergenza</item>
+        <item>Test di Emergenza</item>
+        <item>Finanza</item>
+        <item>Musica Folk</item>
+        <item>Informazione</item>
+        <item>Jazz</item>
+        <item>Classica leggera</item>
+        <item>Leisure</item>
+        <item>Notizie</item>
+        <item>Musica Nazionale</item>
+        <item>Altra Musica</item>
+        <item>Grandi Classici</item>
+        <item>Telefono</item>
+        <item>Pop</item>
+        <item>Religione</item>
+        <item>Rock</item>
+        <item>Scienza</item>
+        <item>Classica seria</item>
+        <item>Tematiche sociali</item>
+        <item>Sport</item>
+        <item>Viaggi</item>
+        <item>Varie</item>
+        <item>Meteo</item>
     </string-array>
     <string-array name="stats_options">
         <item>"Seleziona l'opzione"</item>

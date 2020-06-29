@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-     <string-array name="app_ops_labels">
+    <string-array name="app_ops_labels">
         <item>Posizione</item>
         <item>Posizione</item>
         <item>Posizione</item>
@@ -51,8 +51,8 @@
         <item>Scrivi sfondo</item>
         <item>Assisti struttura</item>
         <item>Assisti screenshot</item>
-     </string-array>
-     <string-array name="app_ops_summaries">
+    </string-array>
+    <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
         <item>posizione precisa</item>
         <item>GPS</item>
@@ -103,21 +103,21 @@
         <item>scrivi sfondor</item>
         <item>assisti struttura</item>
         <item>assisti screenshot</item>
-     </string-array>
-     <string-array name="mvno_type_entries">
+    </string-array>
+    <string-array name="mvno_type_entries">
         <item>Nessuno</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
-     </string-array>
-     <string-array name="wifi_calling_mode_choices">
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi preferita</item>
         <item>Dati preferita</item>
-     </string-array>
-     <string-array name="wifi_signal">
+    </string-array>
+    <string-array name="wifi_signal">
         <item>Scadente</item>
         <item>Discreta</item>
         <item>Buona</item>
         <item>Eccellente</item>
-     </string-array>
+    </string-array>
 </resources>

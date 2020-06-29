@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="account_user_gender_name">
         <item>Uomo</item>
@@ -37,10 +37,5 @@
         <item>100</item>
         <item>200</item>
         <item>500</item>
-    </string-array>
-    <string-array name="mibi_nopassword_pay_threshold_values">
-        <item>10000</item>
-        <item>20000</item>
-        <item>50000</item>
     </string-array>
 </resources>

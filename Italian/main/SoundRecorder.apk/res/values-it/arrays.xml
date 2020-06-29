@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="hd_record_scenes_entries">
         <item>Musica</item>
@@ -16,11 +16,6 @@
         <item>MP3</item>
         <item>WAV</item>
     </string-array>
-    <string-array name="record_format_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="record_locale_language">
         <item>fa</item>
         <item>ar</item>
@@ -35,11 +30,6 @@
         <item>MP3, ~192 kbit/s, ~90 MB/h</item>
         <item>MP3, ~100 kbit/s, ~45 MB/h</item>
         <item>MP3, ~75 kbit/s, ~32 MB/h</item>
-    </string-array>
-    <string-array name="record_quality_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="record_scenes_entries">
         <item>Musica</item>
@@ -57,18 +47,8 @@
         <item>Posiziona il telefono tra due persone per registrare bene</item>
         <item>La tecnologia High Dynamic Range consente al microfono di catturare maggiori dettagli sonori</item>
     </string-array>
-    <string-array name="record_scenes_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
     <string-array name="record_type_entries">
         <item>MP3</item>
         <item>AMR</item>
-    </string-array>
-    <string-array name="record_type_values">
-        <item>audio/mpeg</item>
-        <item>audio/amr</item>
     </string-array>
 </resources>
