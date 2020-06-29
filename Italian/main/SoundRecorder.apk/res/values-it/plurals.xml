@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="btn_clear_records">
         <item quantity="other">Elimina %d registrazioni</item>
@@ -32,7 +32,7 @@
         <item quantity="other">Cerca tra %d registrazioni</item>
         <item quantity="one">Cerca tra %d registrazione</item>
     </plurals>
-	<plurals name="search_app_records_hint">
+    <plurals name="search_app_records_hint">
         <item quantity="other">Cerca tra %d registrazioni</item>
         <item quantity="one">Cerca tra %d registrazione</item>
     </plurals>

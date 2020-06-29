@@ -1,20 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="trans_cancel_survey_title">
-        <item>Esperienza generale</item>
-        <item>Durata del trasferimento</item>
-        <item>Semplicità del processo</item>
-        <item>Chiarezza delle istruzioni</item>
-        <item>Questa funzionalità è utile</item>
-    </string-array>
-    <string-array name="trans_succeed_rating_hint">
-        <item>Molto insoddisfatto</item>
-        <item>Insoddisfatto</item>
-        <item>Neutro</item>
-        <item>Soddisfatto</item>
-        <item>Molto soddisfatto</item>
-    </string-array>
-    <string-array name="trans_succeed_survey_title">
+    <string-array name="">
         <item>Valutazione complessiva</item>
         <item>Durata del trasferimento</item>
         <item>Semplicità del processo</item>

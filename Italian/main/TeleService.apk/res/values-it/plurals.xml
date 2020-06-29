@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="alert_dialog_exit_ecm">
         <item quantity="other">Il telefono rimarrà in modalità Solo chiamate di emergenza per %s minuti. Quando è attiva questa modalità non sarà possibile usare nessuna applicazione che necessiti di una connessione dati. Desideri uscire ora?</item>

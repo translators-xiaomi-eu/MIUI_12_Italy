@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="default_phrases">
+    <string-array name="">
         <item>Intestazione fattura: *** Inc.</item>
         <item>Indirizzo: Via, Apt, Città, Paese/Regione, Provincia, Codice postale</item>
         <item>Si prega di lasciare il pacco davanti alla porta. Grazie!</item>
