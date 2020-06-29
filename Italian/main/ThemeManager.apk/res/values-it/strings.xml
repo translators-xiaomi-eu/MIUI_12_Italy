@@ -92,7 +92,6 @@
     <string name="backup_theme_dialog_message">Eseguire il backup del tema corrente?</string>
     <string name="backup_theme_dialog_ok">Backup</string>
     <string name="backup_theme_fail_trial_rights_message">"Impossibile eseguire il backup dei temi in prova"</string>
-    <string name="backup_theme_name">Backup temi</string>
     <string name="backup_theme_progress_message">Backup in corso, attendere…</string>
     <string name="backup_theme_success_message">Backup tema eseguito correttamente</string>
     <string name="both_all_apply_failured">"Impossibile impostare sfondo"</string>

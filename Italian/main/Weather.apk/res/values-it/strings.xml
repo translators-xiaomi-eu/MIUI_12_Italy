@@ -152,9 +152,6 @@
 trascina verso il basso per aggiornare o verifica le impostazioni di rete"</string>
     <string name="data_provided_by">Fornito in parte da</string>
     <string name="edit_city">Modifica</string>
-    <string name="empty_view_net_loading">Aggiornamento…</string>
-    <string name="empty_view_net_unavailable">"Impossibile collegarsi alla rete"</string>
-    <string name="empty_view_refresh">Prova di nuovo</string>
     <string name="eu_region_version_first_start_network_msg">"Utilizzando questo prodotto, l'utente accetta che Xiaomi raccoglierà, elaborerà e utilizzerà le informazioni personali dell'utente, comprese le coordinate delle città che si cercano e altri tipi di dati specificati nella nostra Informativa sulla Privacy. Fai riferimento alla nostra Informativa sulla Privacy per sapere come raccogliamo ed elaboriamo le informazioni. Toccando \"Accetto\", accetti che Xiaomi %1$s e %2$s."</string>
     <string name="exo_controls_fastforward_description">Avanti veloce</string>
     <string name="exo_controls_fullscreen_description">Mod. Schermo intero</string>
@@ -333,7 +330,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
     <string name="realtime_temperature_no_data">N/D</string>
     <string name="realtime_wind_default_title">Vento</string>
     <string name="receive_net_mock_success">Ricezione net mock completata</string>
-    <string name="refresh_empty_data">"Impossibile caricare i dati. Attendere un minuto o due e riprovare."</string>
     <string name="refresh_fail">"Impossibile collegarsi alla rete"</string>
     <string name="reminder_from_xiaomi_weather_app">Promemoria da applicazione Xiaomi Meteo</string>
     <string name="request_cta_connect_net">请您同意应用联网及以上必要权限</string>

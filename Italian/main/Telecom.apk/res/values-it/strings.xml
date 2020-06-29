@@ -399,7 +399,6 @@ Sample Rate"</string>
     <string name="picture_color_mode_desc">Usa sRGB</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
-    <string name="power_charging_duration">%1$s - %2$s until full</string>
     <string name="power_discharge_by">Dovrebbe durare circa %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare circa %1$s in base al tuo utilizzo (%2$s)</string>
     <string name="power_discharge_by_only">Dovrebbe durare circa %1$s</string>

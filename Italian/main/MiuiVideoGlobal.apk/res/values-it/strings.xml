@@ -15,8 +15,6 @@
     <string name="abc_action_mode_done">Fatto</string>
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
-    <string name="abc_capital_off">ATTIVATO</string>
-    <string name="abc_capital_on">DISATTIVATO</string>
     <string name="abc_font_family_body_1_material">sans-serif</string>
     <string name="abc_font_family_body_2_material">sans-serif-medium</string>
     <string name="abc_font_family_button_material">sans-serif-medium</string>
@@ -252,9 +250,6 @@
     <string name="define_roundedimageview"/>
     <string name="description">Descrizione</string>
     <string name="diagnosis_log_send_failed">"Impossibile inviare i log. Riprova."</string>
-    <string name="diagnosis_log_sent_format">"Log inviati con successo.
-ID:%s
-Invia questo codice al supervisore."</string>
     <string name="dialog_privacy_info_new2">"Per essere in grado di utilizzare i servizi, è necessario accettare che %1$s raccoglierà, elaborerà e utilizzerà le informazioni personali. Confermerai di aver letto e accettato la nostra &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt; quando avrei premuto \"Accetta\" qui sotto."</string>
     <string name="dialog_privacy_title">Autorizzazione</string>
     <string name="dialog_revoke_privacy_info_new2">Dopo aver revocato l\'autorizzazione, l\'app interromperà la raccolta dei dati e tutti i dati correlati verranno eliminati dai nostri server. Questo potrebbe rendere l\'applicazione inutilizzabile. Revocare l\'autorizzazione?</string>
@@ -384,7 +379,6 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_gallery_video_item5_default_text">Assistente</string>
     <string name="galleryplus_gallery_video_item6_default_text">Gioia</string>
     <string name="galleryplus_gallery_video_local_music_text">Seleziona File</string>
-    <string name="galleryplus_gallery_video_music_format_error">"Impossibile aggiungere una colonna sonora al video selezionato"</string>
     <string name="galleryplus_gallery_video_music_text">Colonna sonora</string>
     <string name="galleryplus_gallery_video_no_music_text">Nessuno</string>
     <string name="galleryplus_gallery_video_operate_text">Regolazioni Slow-motion</string>
@@ -437,10 +431,7 @@ Invia questo codice al supervisore."</string>
     <string name="get_ph_ticket">Ottieni codice</string>
     <string name="get_phone_bind_exceed_limit">"È possibile associare fino a 3 Mi Account a un numero di telefono. Impossibile aggiungere nuovi account."</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
-    <string name="google_api_key">AIzaSyBmWA13ZtMoPDvgTFVtmG4anqKADZ_XnNg</string>
-    <string name="google_app_id">1:144285974528:android:6b926accc3bd9e5a7918e5</string>
     <string name="google_application_id"/>
-    <string name="google_crash_reporting_api_key">AIzaSyBmWA13ZtMoPDvgTFVtmG4anqKADZ_XnNg</string>
     <string name="google_storage_bucket">global-video-5cd70.appspot.com</string>
     <string name="goto_sign_up">Crea account</string>
     <string name="have_learned">Fatto</string>
@@ -853,7 +844,6 @@ Aggiorna prima Mi Video all'ultima versione."</string>
     <string name="passport_verify">Verifica</string>
     <string name="passport_wechat_not_install">Installa prima WeChat</string>
     <string name="passport_wrong_captcha">Il captcha inserito non è corretto</string>
-    <string name="passport_wrong_phone_number_format">Il formato del numero inserito non è valido</string>
     <string name="passport_wrong_vcode">Il captcha inserito non è corretto</string>
     <string name="passport_wrong_voice">Il captcha inserito non è corretto</string>
     <string name="password_toggle_content_description">Mostra password</string>
@@ -965,7 +955,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_properties_file">File</string>
     <string name="plus_properties_file_name">Nome file</string>
     <string name="plus_properties_finished">Terminato</string>
-    <string name="plus_properties_format">Formato</string>
     <string name="plus_properties_frame_rate">Sequenza dei fotogrammi</string>
     <string name="plus_properties_last_playback_position">Ultima Posizione</string>
     <string name="plus_properties_last_playback_time">Ultima riproduzione</string>

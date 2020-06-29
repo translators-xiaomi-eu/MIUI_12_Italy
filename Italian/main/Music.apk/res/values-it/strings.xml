@@ -19,8 +19,6 @@
     <string name="abc_action_mode_done">Fatto</string>
     <string name="abc_activity_chooser_view_see_all">Vedi tutto</string>
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
-    <string name="abc_capital_off">DISATTIVA</string>
-    <string name="abc_capital_on">ATTIVA</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -118,7 +116,6 @@
     <string name="auto_sound_quality">Auto</string>
     <string name="auto_update">Aggiorna automaticamente</string>
     <string name="auto_update_tip">Puoi aggiornare le app di sistema utilizzando i dati mobili. Ciò potrebbe comportare costi aggiuntivi per i dati.</string>
-    <string name="available_playlist_name_format">Nuova playlist %d</string>
     <string name="avoid_to_use_traffic_summary">"Non utilizzare la rete mobile per riprodurre musica in streaming"</string>
     <string name="avoid_to_use_traffic_title">Mostra un avviso nel caso vengano utilizzati i dati mobili per riprodurre i brani</string>
     <string name="back">indietro</string>
@@ -227,7 +224,6 @@
     <string name="columbus_player_close_video">CHIUDI IL VIDEO</string>
     <string name="columbus_player_install_now">INSTALLA ORA</string>
     <string name="columbus_player_learn_more">Scopri di più</string>
-    <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Attiva</string>
     <string name="common_google_play_services_enable_text">"%1$s non funzionerà se non attiverai i servizi di Google Play."</string>
     <string name="common_google_play_services_enable_title">Attiva i servizi di Google Play</string>
@@ -251,8 +247,6 @@
     <string name="connect_now">Connetti</string>
     <string name="connecting_apk">Connessione...</string>
     <string name="copy">Copia</string>
-    <string name="count_format">%2$1.1fK</string>
-    <string name="count_million_format">%2$1.2fM</string>
     <string name="create_playlist">Crea playlist</string>
     <string name="create_playlist_failure">"Impossibile creare la playlist"</string>
     <string name="create_playlist_input_hint">Inserisci il nome della playlist</string>
@@ -264,7 +258,6 @@
     <string name="data_usage_warning">Utilizzo dati</string>
     <string name="data_usage_warning_summary">Lo streaming in alta qualità tramite rete cellulare può aumentare il traffico dati.</string>
     <string name="data_use_desc">Documenti legali</string>
-    <string name="date_format_str">dd-MM-yyyy</string>
     <string name="date_picker_label_day"/>
     <string name="date_picker_label_month"/>
     <string name="date_picker_label_year"/>
@@ -401,7 +394,6 @@
     <string name="downloading_empty">Vuoto</string>
     <string name="downloading_pause_apk">Pausa...Continua a scaricare nella barra delle notifiche o sul desktop</string>
     <string name="due_date">In Data: %s</string>
-    <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
     <string name="early_morning">AM</string>
     <string name="earthly_branches_chen">辰</string>
     <string name="earthly_branches_chou">丑</string>
@@ -435,7 +427,6 @@
     <string name="eq_jazz">Jazz</string>
     <string name="eq_metal">Metal</string>
     <string name="eq_pop">Pop</string>
-    <string name="eq_preset_format">Preimpostazione utente %d</string>
     <string name="eq_preset_hint">Nome preimpostazione</string>
     <string name="eq_preset_select">Scegli una preimpostazione</string>
     <string name="eq_rock">Rock</string>
@@ -564,8 +555,6 @@
     <string name="follow">Segui</string>
     <string name="followed">Stai seguendo</string>
     <string name="font_family">miui</string>
-    <string name="format_not_support">"Formato non valido, impossibile salvare."</string>
-    <string name="format_unsupported_or_corrupted">"Formato non supportato o file corrotto"</string>
     <string name="fragment_title_artist_album">ALBUM</string>
     <string name="friday">venerdì</string>
     <string name="friday_short">ven</string>
@@ -616,7 +605,6 @@
     <string name="hungama_free_download_out_summary_toast">"Hai già scaricato %d canzoni. Acquista un abbonamento per scaricarne di più."</string>
     <string name="hungama_playlist_category">Categoria playlist</string>
     <string name="hungama_privacy_desc">Informativa sulla Privacy Hungama (opzionale)</string>
-    <string name="hungama_privacy_policy_url">http://www.hungama.com/musicapp/terms-and-conditions/</string>
     <string name="hungama_privacy_tips_content">Per accedere ai contenuti online, devi accettare l\'&lt;a href=\"/link/click\"&gt;Informativa sulla Privacy di Hungama&lt;/a&gt;.</string>
     <string name="hungama_privacy_tips_title">Informativa sulla Privacy Hungama</string>
     <string name="hungama_pro">Hungama Pro</string>
@@ -1266,7 +1254,6 @@ E gioiscine"</string>
 
 Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</string>
     <string name="wifi_required_title">File troppo grande per la rete dell\'operatore</string>
-    <string name="xiaomi_privacy_policy_url">https://privacy.mi.com/all/</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione al Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s
 Size: %2$s"</string>

@@ -4828,7 +4828,6 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
     <string name="power_cell">Cellulare in standby</string>
     <string name="power_center">Ottimizzazione</string>
     <string name="power_charge_remaining">%1$s carica</string>
-    <string name="power_charging_duration">%1$s - %2$s fino alla carica completa</string>
     <string name="power_checker">Controllo batteria</string>
     <string name="power_discharge_by">Dovrebbe durare all\'incirca %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare all\'incirca %1$s in base al tuo utilizzo (%2$s)</string>
@@ -5408,8 +5407,6 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="runningservices_settings_title">Servizi in esecuzione</string>
     <string name="runtime_permissions_summary_no_permissions_granted">Nessun permesso rilasciato</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Nessun permesso richiesto</string>
-    <string name="rx_link_speed">%1$d Mbps</string>
-    <string name="rx_link_speed_label">Velocità di ricezione:</string>
     <string name="rx_wifi_speed">Velocità di ricezione</string>
     <string name="safety_and_regulatory_info">Sicurezza e Regolazione manuale</string>
     <string name="save">Salva</string>
@@ -6049,7 +6046,6 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
     <string name="share_remote_bugreport_dialog_title">Condividere segnalazione bug?</string>
     <string name="share_this_wifi">Estendi copertura Wi-Fi</string>
     <string name="sharing_remote_bugreport_dialog_message">Questo segnalazione bug è stato condiviso con il tuo amministratore IT. Contattalo per maggiori dettagli.</string>
-    <string name="short_summary_font_size">Rendi il testo più grande e più piccolo</string>
     <string name="show_all_anrs">Mostra tutti gli errori ANR</string>
     <string name="show_all_anrs_summary">Mostra finestra ANR per applicazioni in background</string>
     <string name="show_all_apps">Mostra utilizzo totale del dispositivo</string>
@@ -6903,8 +6899,6 @@ L\'approccio di Google alla sincronizzazione di dati per consentirti l\'accesso 
     <string name="turn_on_torch">Attiva la Torcia</string>
     <string name="turn_update_keyguard_password_wait_dialog">Modifica password</string>
     <string name="twohours">1 ora</string>
-    <string name="tx_link_speed">%1$d Mbps</string>
-    <string name="tx_link_speed_label">Velocità di trasmissione:</string>
     <string name="tx_wifi_speed">Velocità di trasmissione</string>
     <string name="under_keyguard">Schermata di blocco</string>
     <string name="unimportant">UnImportant</string>

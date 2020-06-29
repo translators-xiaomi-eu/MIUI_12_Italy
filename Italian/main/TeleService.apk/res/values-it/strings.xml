@@ -204,8 +204,6 @@
     <string name="audio_mode_earpiece">Cuffia senza fili</string>
     <string name="audio_mode_speaker">Altoparlante</string>
     <string name="audio_mode_wired_headset">Cuffie con filo</string>
-    <string name="auth_username_summary">Nome utente usato per l\'autenticazione</string>
-    <string name="auth_username_title">Nome utente autenticazione</string>
     <string name="auto_answer_delay_entries_delay_10s">10 secondi</string>
     <string name="auto_answer_delay_entries_delay_3s">3 secondi</string>
     <string name="auto_answer_delay_entries_delay_5s">5 secondi</string>
@@ -241,7 +239,6 @@
     <string name="autoip_prefix_summary">"Il prefisso IP dell'operatore è: %s"</string>
     <string name="autoip_setting">Impostazioni IP automatiche</string>
     <string name="autoip_summary">Aggiungi un prefisso IP per i numeri internazionali</string>
-    <string name="autoip_support_local_numbers">Usa sempre prefisso IP</string>
     <string name="available_via_carrier">Disponibile tramite %1$s</string>
     <string name="available_via_passpoint">Disponibile tramite %1$s</string>
     <string name="back">Indietro</string>
@@ -351,8 +348,6 @@
     <string name="bluetooth_talkback_phone">Telefono</string>
     <string name="bt_hci_snoop_log">Attiva log snoop HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Raccogli tutti i pacchetti HCI bluetooth in un file</string>
-    <string name="bugreport_in_power">Collegamento bug report</string>
-    <string name="bugreport_in_power_summary">Mostra un tasto nel menu di alimentazione per avere un bug report</string>
     <string name="button_convert_fbe">Cancella e converti converti…</string>
     <string name="callEnded_pulled">Chiamata trasferita ad un altro dispositivo.</string>
     <string name="callFailed_NetworkBusy">La rete è occupata. Prova a chiamare più tardi.</string>
@@ -473,7 +468,6 @@
     <string name="call_barring_confirm_pwd">Conferma password</string>
     <string name="call_barring_deactivate_all">Disattiva tutto</string>
     <string name="call_barring_deactivate_all_description">Disattiva tutte le impostazioni di inoltro chiamata</string>
-    <string name="call_barring_deactivate_all_no_password">Disattivare tutte le impostazioni di inoltro chiamata?</string>
     <string name="call_barring_deactivate_success">Inoltro chiama disattivato</string>
     <string name="call_barring_new_pwd">Nuova password</string>
     <string name="call_barring_old_pwd">Vecchia password</string>
@@ -579,7 +573,6 @@
     <string name="change_default_data_card">SIM dati predefinita</string>
     <string name="change_default_data_card_summary">Sembra che tu abbia cambiato SIM. Imposta questa SIM come predefinita per la connessione dati?</string>
     <string name="change_num">Aggiorna</string>
-    <string name="change_password">Modifica password di blocco</string>
     <string name="change_pin">Modifica il PIN della SIM</string>
     <string name="change_pin2">Modifica PIN2</string>
     <string name="change_pin_cancel_label">Annulla</string>
@@ -675,7 +668,6 @@
     <string name="confirmPinLabel">Conferma il nuovo PIN</string>
     <string name="confirm_enable_oem_unlock_text">ATTENZIONE: Le funzionalità di protezione del dispositivo non funzionalitàranno quando questa opzione é attiva.</string>
     <string name="confirm_enable_oem_unlock_title">Consentire sblocco OEM?</string>
-    <string name="confirm_password_label">Conferma la nuova password</string>
     <string name="confirm_pin2_label">Conferma il nuovo PIN2</string>
     <string name="confirm_pin_label">Conferma il nuovo PIN</string>
     <string name="connect_disconnect_vibrate_none">Non vibrare</string>
@@ -705,7 +697,6 @@
     <string name="copy">Copia</string>
     <string name="crescendo_ringer_summary">La suoneria salirà gradualmente fino al livello impostato</string>
     <string name="crescendo_ringer_title">Suoneria crescente</string>
-    <string name="ct_ut_not_support_close_4glte">UT non disponibile, disattiva Modalità 4G LTE migliorata nelle Impostazioni</string>
     <string name="ct_volte_no_voice_service_notification_channel">ctVolteNoCallServiceChannel</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (rosso-verde)</string>
     <string name="daltonizer_mode_disabled">Disabilitato</string>
@@ -746,9 +737,6 @@
     <string name="debug_networking_category">Rete</string>
     <string name="debug_view_attributes">Abilita ispezione attribuiti di visualizzazione</string>
     <string name="default_notification_description">Suono predefinito (%1$s)</string>
-    <string name="default_preference_summary_domain_address">&lt;Non impostato&gt;</string>
-    <string name="default_preference_summary_password">&lt;Non impostato&gt;</string>
-    <string name="default_preference_summary_username">&lt;Non impostato&gt;</string>
     <string name="delete">Elimina</string>
     <string name="delete_fdn_contact">Elimina numero a selezione fissa</string>
     <string name="deleting_fdn_contact">Eliminazione numero a selezione fissa…</string>
@@ -794,7 +782,6 @@
     <string name="dialog_ota_change_number_lgu_roaming">"Non è possibile modificare i numeri di telefono all'estero."</string>
     <string name="dialog_ota_change_number_processing">Download USIM…</string>
     <string name="dialog_ota_change_number_success">Numero di telefono modificato correttamente</string>
-    <string name="dialog_report">Segnala</string>
     <string name="dialpad_0_letters">+</string>
     <string name="dialpad_1_letters"/>
     <string name="dialpad_2_letters">ABC</string>
@@ -844,10 +831,7 @@
     <string name="disabled">Disattivato</string>
     <string name="disabled_by_admin">Disattivato dall\'amministratore</string>
     <string name="disabled_by_admin_summary_text">Controllato dall\'amministratore</string>
-    <string name="display_name_summary">Come il nome utente</string>
-    <string name="display_name_title">Mostra nome</string>
     <string name="do_not_show_again">"Non mostrare nuovamente"</string>
-    <string name="domain_address_title">Server</string>
     <string name="doneButton">Fatto</string>
     <string name="dtmf_tone_entries_long">Lungo</string>
     <string name="dtmf_tone_entries_normal">Normale</string>
@@ -907,8 +891,6 @@
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE richiede la connessione 4G per entrambi gli slot SIM. Passare al dual 4G adesso?</string>
     <string name="enable_fdn">Attiva NSSF</string>
     <string name="enable_fdn_ok">NSF disattivati</string>
-    <string name="enable_freeform_support">Abilita finestre di libero formato</string>
-    <string name="enable_freeform_support_summary">Abilita supporto sperimentale per finestre a libero formato.</string>
     <string name="enable_gpu_debug_layers">Attiva livelli debug GPU</string>
     <string name="enable_gpu_debug_layers_summary">Consenti il caricamento deli livelli debug GPU per le app di debug</string>
     <string name="enable_in_progress">Attendere…</string>
@@ -931,7 +913,6 @@
     <string name="enhanced_4g_lte_mode_summary">Utilizza i servizi LTE per migliorare la comunicazione voce e altro (consigliato)</string>
     <string name="enhanced_4g_lte_mode_summary_o2">Utilizza i servizi 4G per migliorare la comunicazione voce e altro (consigliato)</string>
     <string name="enhanced_4g_lte_mode_title">Modalità 4G LTE avanzata</string>
-    <string name="enter_callbarring_password">Inserisci la password per il blocco chiamate (4 cifre)</string>
     <string name="enter_input">Il messaggio USSD deve essere lungo tra gli %1$d e i %2$d caratteri. Si prega di riprovare.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN della SIM:</string>
@@ -945,7 +926,6 @@
     <string name="expand_button_title">Avanzate</string>
     <string name="external_source_trusted">Consentito</string>
     <string name="external_source_untrusted">Non consentito</string>
-    <string name="failedToImportSingleContactMsg">Importo contatti fallito</string>
     <string name="failed_to_open_app_settings_toast">Impossibile aprire le Impostazioni per %1$s</string>
     <string name="fake_phone_activity_infoText_text">Numero chiamante</string>
     <string name="fake_phone_activity_phoneNumber_text">+39 333 1234567</string>
@@ -1023,10 +1003,6 @@
     <string name="ime_security_warning">Questo metodo di inserimento potrebbe raccogliere informazioni dal testo digitato, inclusi dati personali come password e numeri di carte di credito. Proviene dall\'app %1$s. Usare questo metodo di inserimento?</string>
     <string name="immediately_destroy_activities">Non conservare attività</string>
     <string name="immediately_destroy_activities_summary">Elimina ogni attività appena l\'utente la interrompe</string>
-    <string name="importAllSimEntries">Importa tutto</string>
-    <string name="importSimEntry">Importa</string>
-    <string name="importToFDNfromContacts">Importa dai contatti</string>
-    <string name="importingSimContacts">Importazione contatti dalla SIM</string>
     <string name="ims_reg_status_not_registered">Non registrato</string>
     <string name="ims_reg_status_registered">Registrato</string>
     <string name="ims_reg_title">Stato registrazione IMS</string>
@@ -1069,7 +1045,6 @@
     <string name="invalidPin">Digita un PIN che sia composto da 4 a 8 cifre.</string>
     <string name="invalidPin2">Digita un PIN2 che sia composto da 4 a 8 cifre.</string>
     <string name="invalidPuk2">Digita un PUK2 di 8 cifre.</string>
-    <string name="invalid_password">Inserisci una password di 4 cifre</string>
     <string name="invalid_pin">Digita un PIN che sia composto da 4 a 8 cifre.</string>
     <string name="invalid_pin2">Digita un PIN2 che sia composto da 4 a 8 cifre.</string>
     <string name="invalid_puk">Digita un PUK che sia composto da 4 a 8 cifre.</string>
@@ -1140,7 +1115,6 @@
     <string name="lable_disable">Disattivato</string>
     <string name="lable_enable">Attivato</string>
     <string name="lable_incoming_calls_except">Chiamate in arrivo in roaming</string>
-    <string name="lable_network_not_supported">"Non supportato dalla rete"</string>
     <string name="lafs_disable">Orari dei voli aeroporto locale disattivati</string>
     <string name="lafs_enable">Orari dei voli aeroporto locale attivati</string>
     <string name="last_sim_callback_summary">Quando si effettuano chiamate dalla cronologia delle chiamate, utilizza la scheda SIM utilizzata durante la chiamata precedente con questo contatto</string>
@@ -1177,12 +1151,6 @@ Le chiamate di emergenza sono possibili solo in aree con copertura cellulare."</
     <string name="list_language_title">Lingua</string>
     <string name="load_networks_progress">Ricerca…</string>
     <string name="loading_injected_setting_summary">Caricamento…</string>
-    <string name="local_backup_password_summary_change">Tocca per modificare o rimuovere la password dei backup locali</string>
-    <string name="local_backup_password_summary_none">I backup locali non sono attualmente protetti</string>
-    <string name="local_backup_password_title">Password backup locali</string>
-    <string name="local_backup_password_toast_confirmation_mismatch">La password di conferma e la password non combaciano</string>
-    <string name="local_backup_password_toast_success">Impostazione nuova password backup per locali riuscita</string>
-    <string name="local_backup_password_toast_validation_failure">Impostazione nuova password per backup locali fallita</string>
     <string name="local_disable">Notizie locali disattivate</string>
     <string name="local_enable">Notizie locali attivate</string>
     <string name="local_weather_disable">Meteo locale disattivato</string>
@@ -1221,7 +1189,6 @@ Le chiamate di emergenza sono possibili solo in aree con copertura cellulare."</
     <string name="mi_sim_settings_title">Mi SIM</string>
     <string name="mismatchPin">"I PIN che hai digitato non corrispondono. Riprova"</string>
     <string name="mismatchPin2">"I PIN2 che hai digitato non corrispondono. Riprova."</string>
-    <string name="mismatch_password">"Le password inserite non corrispondono"</string>
     <string name="mismatch_pin">"I PIN che hai digitato non corrispondono. Riprova"</string>
     <string name="mismatch_pin2">"I PIN2 che hai digitato non corrispondono. Riprova."</string>
     <string name="missed_call_notify_five_times">5 volte</string>
@@ -1306,7 +1273,6 @@ Le chiamate di emergenza sono possibili solo in aree con copertura cellulare."</
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivi</string>
     <string name="msim_apn_not_set">Non impostato</string>
-    <string name="msim_cmcc_dds_switch_not_support">"Impossibile invertire schede SIM a causa di restrizioni del gestore."</string>
     <string name="msim_disable_sim_card_btn_text">OK</string>
     <string name="msim_disable_sim_card_summary_default_card">"Questa SIM è attualmente impostata com e predefinita. Se decidi di non utilizzarla più, non sarai più in grado di effettuare chiamate o utilizzare la connessione dati. Puoi smettere di utilizzare questa SIM dopo averne impostata un'altra come predefinita."</string>
     <string name="msim_disable_sim_card_summary_non_default_card">Potresti non essere più in grado di effettuare chiamate o utilizzare la connessione dati. Non utilizzare più la SIM %s?</string>
@@ -1329,8 +1295,6 @@ Le chiamate di emergenza sono possibili solo in aree con copertura cellulare."</
     <string name="msim_not_set_summary">Non impostato</string>
     <string name="msim_select_default_time_left">(%d sec)</string>
     <string name="msim_set_icc_card_error">Errore carta ICC</string>
-    <string name="msim_set_sub_not_supported_phone_in_call">"Non puoi impostarlo durante una chiamata"</string>
-    <string name="msim_set_sub_not_supported_slot_id_error">Errore SIM, riprova più tardi</string>
     <string name="msim_setting_categery_title">Impostazioni SIM</string>
     <string name="msim_setting_default_data">Scheda dati</string>
     <string name="msim_setting_default_data_description">SIM Dati %d</string>
@@ -1398,7 +1362,6 @@ Le chiamate di emergenza sono possibili solo in aree con copertura cellulare."</
     <string name="networks_title">Operatori di rete</string>
     <string name="newPin2Label">Nuovo PIN2</string>
     <string name="newPinLabel">Nuovo PIN</string>
-    <string name="new_password_label">Nuova password (4 cifre)</string>
     <string name="new_pin2_label">Nuovo PIN2</string>
     <string name="new_pin_label">Nuovo PIN</string>
     <string name="no_application">Nessuna</string>
@@ -1411,7 +1374,6 @@ Le chiamate di emergenza sono possibili solo in aree con copertura cellulare."</
     <string name="no_vm_number_msg">Nella tua SIM non è presente il numero della segreteria telefonica.</string>
     <string name="no_voip">Chiamate via internet non supportate</string>
     <string name="no_wifi_available">È necessario che tu sia connesso ad una rete Wi-Fi per eseguire chiamate via internet (usa le Impostazioni Wi-Fi e rete).</string>
-    <string name="not_a_valid_port">Il numero della porta dovrebbe essere tra 1000 e 65534.</string>
     <string name="not_allowed">"La tua carta SIM non consente la connessione a questa rete."</string>
     <string name="not_set">Non impostato</string>
     <string name="not_voice_capable">Chiamate vocali non supportate</string>
@@ -1436,14 +1398,12 @@ Le chiamate di emergenza sono possibili solo in aree con copertura cellulare."</
     <string name="nr_usaged_used_time">Durata dell\'utilizzo</string>
     <string name="number">Numero</string>
     <string name="numerous_emergency_numbers_title">Numeri di emergenza</string>
-    <string name="oem_preferred_feedback_reporter"/>
     <string name="oem_unlock_enable">Sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Consenti lo sblocco del bootloader</string>
     <string name="ok">OK</string>
     <string name="okay">OK</string>
     <string name="oldPin2Label">Vecchio PIN2</string>
     <string name="oldPinLabel">Vecchio PIN</string>
-    <string name="old_password_label">Vecchia password (4 cifre)</string>
     <string name="old_pin2_label">Vecchio PIN2</string>
     <string name="old_pin_label">Vecchio PIN</string>
     <string name="onHold">In attesa</string>
@@ -1494,8 +1454,6 @@ Le chiamate di emergenza sono possibili solo in aree con copertura cellulare."</
     <string name="overlay_display_devices_title">Simula schermi secondari</string>
     <string name="overseas_roaming_setting">Roaming dati</string>
     <string name="pane_title_emergency_dialpad">Numeri di emergenza</string>
-    <string name="password_changed">Password modificata</string>
-    <string name="password_title">Password</string>
     <string name="path_answer_state_setting_title">Applicazioni di sistema/Chiamate/Impostazioni chiamate in arrivo</string>
     <string name="path_antispam_setting">Applicazioni di sistema/Chiamate/Blacklist</string>
     <string name="path_app_name">Applicazioni di sistema/Chiamate</string>
@@ -1555,7 +1513,6 @@ Invio toni"</string>
     <string name="phone_in_ecm_call_notification_text">Connessione dati disattivata</string>
     <string name="phone_in_ecm_notification_complete_time">Nessuna connessione dati fino a %s</string>
     <string name="phone_in_ecm_notification_title">Modalità Richiamata di emergenza</string>
-    <string name="phone_report_title">Leggi informazioni sulle chiamate in arrivo</string>
     <string name="picture_color_mode">Modalità colore immagine</string>
     <string name="picture_color_mode_desc">Utilizza sRGB</string>
     <string name="pin2_attempts">"
@@ -1580,8 +1537,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="pointer_location">Posizione indicatore</string>
     <string name="pointer_location_summary">L\'overlay schermo mostra gli attuali dati touch</string>
     <string name="police_type_description">Polizia</string>
-    <string name="port_title">Numero porta</string>
-    <string name="power_charging_duration">%1$s - %2$s fino a completamento</string>
     <string name="power_discharge_by">Dovrebbe durare circa fino alle %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare circa fino alle %1$s in base al tuo utilizzo (%2$s)</string>
     <string name="power_discharge_by_only">Dovrebbe durare circa fino alle %1$s</string>
@@ -1671,7 +1626,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="preferred_wificall_title">Preferenze di rete</string>
     <string name="privacy_policy_title">Informativa sulla Privacy</string>
     <string name="private_dns_mode_off">Disattivato</string>
-    <string name="private_dns_mode_opportunistic">Automatico</string>
     <string name="private_dns_mode_provider">Hostname provider DNS privato</string>
     <string name="private_dns_mode_provider_failure">"Impossibile connettersi"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisi l\'hostname del provider DNS</string>
@@ -1727,12 +1681,8 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="remove_sip_account">Rimuovi account</string>
     <string name="removing_account">Rimozione dell\'account…</string>
     <string name="replace_4g_template">4G</string>
-    <string name="report_method_entries_item1">Solo quando gli auricolari sono collegati</string>
-    <string name="report_method_entries_item2">Sempre</string>
-    <string name="report_method_entries_item3">Disattiva</string>
     <string name="requesting_unlock">Richiesta sblocco di rete…</string>
     <string name="reset_roaming_message">Il dispositivo si riavvierà per ripristinare il roaming.</string>
-    <string name="reset_roaming_not_support">"Questa scheda SIM non è in grado di inizializzare il roaming."</string>
     <string name="reset_roaming_tip">Reset roaming in corso…</string>
     <string name="reset_roaming_title">Ripristina roaming</string>
     <string name="respond_via_sms_canned_response_1">"Ora non posso parlare. Puoi richiamare più tardi?"</string>
@@ -1810,9 +1760,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="select_webview_provider_title">Implementazione WebView</string>
     <string name="select_webview_provider_toast_text">Questa scelta non é più valida. Riprova.</string>
     <string name="send_button">Invia</string>
-    <string name="send_keepalive_title">Invia keep-alive</string>
-    <string name="set_primary_summary">Usato per le chiamate in uscita</string>
-    <string name="set_primary_title">Imposta come account primario</string>
     <string name="set_smsc_address_error">"Impossibile impostare il numero"</string>
     <string name="set_smsc_address_timeout">Connessione scaduta</string>
     <string name="set_smsc_address_title">Imposta il numero del centro SMS</string>
@@ -1853,7 +1800,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="sim_selection_required_pref">Selezione richiesta</string>
     <string name="sim_service_setting">Mi SIM e Mi Roaming</string>
     <string name="simulate_color_space">Simula spazio colore</string>
-    <string name="singleContactImportedMsg">Contatto importato</string>
     <string name="single_emergency_number_title">Numero di emergenza</string>
     <string name="single_fiveg_deactivate_sim_dialog_btn_disable_sim">Disattiva</string>
     <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">Seleziona SIM da disattivare</string>
@@ -1864,7 +1810,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="single_fiveg_dual_sim_dialog_btn_deactivate_sim">Disattiva scheda SIM</string>
     <string name="single_fiveg_dual_sim_dialog_btn_enable_dual_sims">Usa Dual SIM</string>
     <string name="single_fiveg_dual_sim_dialog_msg_dual_sim">L\'utilizzo di reti 5G richiede la disattivazione di una delle schede SIM. Se si desidera continuare a utilizzare Dual SIM, selezionare un tipo di rete diverso.</string>
-    <string name="single_fiveg_dual_sim_dialog_title_important_prompt">Attenzione</string>
     <string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">È possibile attivare una sola scheda SIM per le reti 5G. Toccando \"Attiva\" si disattiva l\'altra scheda SIM.</string>
     <string name="single_fivegg_enable_fiveg_dialog_btn_enable_sim">Attiva</string>
     <string name="sip_account_disable">"Account non attivo. Impossibile accettare le chiamate."</string>
@@ -1872,7 +1817,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="sip_accounts">Account chiamate via internet (SIP)</string>
     <string name="sip_accounts_title">Account SIP</string>
     <string name="sip_add_account_tip_text">Per usare le chiamate internet, aggiungere un account SIP</string>
-    <string name="sip_always_send_keepalive">Chiedi sempre</string>
     <string name="sip_call_options_entry_1">Per tutte le chiamate quando la rete dati è disponibile</string>
     <string name="sip_call_options_entry_2">Solo per chiamate via internet</string>
     <string name="sip_call_options_entry_3">Chiedi ad ogni chiamata</string>
@@ -1916,7 +1860,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="speed_label_slow">Lento</string>
     <string name="speed_label_very_fast">Molto veloce</string>
     <string name="speed_label_very_slow">Molto lento</string>
-    <string name="sports_news_settings">Notizie sportive</string>
     <string name="srvcc_message">La chiamata vocale in 4G é stata ridotta a 2G/3G, perché la rete 4G non é disponibile.</string>
     <string name="srvcc_video_message">La videochiamata in 4G é stata ridotta a 2G/3G, perché la rete 4G non é disponibile.</string>
     <string name="standby_bucket_summary">Stato standby app: %s</string>
@@ -2058,7 +2001,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="title_convert_fbe">Conversione a file basato su crittografia</string>
     <string name="track_frame_time">Profilo rendering GPU</string>
     <string name="transition_animation_scale_title">Scala transizione animazioni</string>
-    <string name="transport_title">Tipo di trasporto</string>
     <string name="tts_default_lang_summary">Imposta la lingua specifica per la voce del testo parlato</string>
     <string name="tts_default_lang_title">Lingua</string>
     <string name="tts_default_pitch_summary">Influisce sul tono del discorso sintetizzato</string>
@@ -2083,7 +2025,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="tts_settings">Impostazioni testo parlato</string>
     <string name="tts_settings_title">Output testo parlato</string>
     <string name="tts_status_checking">Controllo…</string>
-    <string name="tts_status_not_supported">%1$s non é supportato</string>
     <string name="tts_status_ok">%1$s é pienamente supportato</string>
     <string name="tts_status_requires_network">%1$s richiede una connessione alla rete</string>
     <string name="tts_status_title">Stato lingua predefinita</string>
@@ -2112,10 +2053,8 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="usb_audio_disable_routing_summary">Disattiva indirizzo automatico audio USB con le periferiche</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usa lingue di sistema</string>
     <string name="user_guest">Ospite</string>
-    <string name="username_title">Nome utente</string>
     <string name="ussdRunning">Codice USSD in esecuzione…</string>
     <string name="ussd_dialog_sep">----------</string>
-    <string name="ut_not_support">UT non disponibile</string>
     <string name="ut_unavailable_to_set_video_cf_toast">UT non è disponibile per impostare l\'inoltro di chiamata per il video, chiudere questa pagina e uscire.</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
@@ -2140,8 +2079,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="voice_number_setting_primary_user_only">La voce mail per le impostazioni delle chiamate può essere cambiata solo dall\'utente primario.</string>
     <string name="voice_privacy">Privacy voce</string>
     <string name="voice_privacy_summary">Abilità modalità privacy avanzata</string>
-    <string name="voice_report_incoming_call">Chiamata in corso</string>
-    <string name="voice_report_unknown_num">Numero sconosciuto</string>
     <string name="voice_service_cannot_call_notification_content">È possibile che si verifichino problemi di connettività durante il tentativo di effettuare chiamate.</string>
     <string name="voice_service_cannot_call_notification_title">"Impossibile effettuare chiamate sulla rete attuale"</string>
     <string name="voice_service_switch_summary">Attiva per poter utilizzare la funzionalità di chiamata VoLTE nelle reti VoLTE</string>
@@ -2171,8 +2108,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="volte_provision_notification_activate">Attiva</string>
     <string name="volte_provision_text">Rileva VoLTE se non supportato dalla tua SIM, attivare adesso?</string>
     <string name="volte_provision_title">Introduzione VoLTE</string>
-    <string name="volte_switch_not_support_summary">"Le chiamate VoLTE non sono supportate da questa SIM dati."</string>
-    <string name="volte_switch_not_support_summary2">"Le chiamate VoLTE non sono supportate dall'operatore."</string>
     <string name="volte_switch_summary">Utilizza VoLTE per migliorare la qualità audio e video delle chiamate</string>
     <string name="volte_switch_summary2">Conferma che il tuo operatore supporta questa funzionalità prima di attivarla. In caso non sia supportata le chiamate regolari potrebbero essere influenzate.</string>
     <string name="volte_switch_title">VoLTE attivato</string>
@@ -2185,7 +2120,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="vowifi_emergency_warning_message">"Le chiamate Wi-Fi non possono essere utilizzate per le chiamate di emergenza. Il dispositivo passerà automaticamente a una rete mobile (2G/3G) per effettuare una chiamata di emergenza. Le chiamate di emergenza sono possibili solo in aree con copertura di rete mobile."</string>
     <string name="vowifi_emergency_warning_title">Chiamate ECC tramite Chiamata Wi-Fi</string>
     <string name="vpn_settings_not_available">Impostazioni VPN non disponibili per questo utente</string>
-    <string name="vvm_unsupported_message_format">Tipi di messaggi non supportati, chiama %s per ascoltare.</string>
     <string name="wait_for_debugger">Attendi il debugger</string>
     <string name="wait_for_debugger_summary">Applicazioni debuggate attendono il debugger prima dell\'esecuzione</string>
     <string name="wait_prompt_str">"Inviare i seguenti toni?"</string>
@@ -2199,12 +2133,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="wapi_cert_roaming">Connessione…</string>
     <string name="wapi_no">no</string>
     <string name="wapi_no_vaild_cert">Nessun certificato disponibile, installare adesso?</string>
-    <string name="wapi_password_hex_format_add">Il numero di caratteri esadecimali non può essere dispari</string>
-    <string name="wapi_password_is_empty">Il campo password non può essere lasciato vuoto</string>
-    <string name="wapi_password_is_not_hex_format">Caratteri esadecimali non validi</string>
-    <string name="wapi_password_length_is_max">La password non può superare i 64 caratteri di lunghezza</string>
-    <string name="wapi_password_length_is_min">La password non può essere inferiore a 8 caratteri</string>
-    <string name="wapi_password_length_is_min_to_max">La password deve essere: 8-64 caratteri</string>
     <string name="wapi_yes">Si</string>
     <string name="wfcmode_mobile_preferred">Preferita Cellulare</string>
     <string name="wfcmode_wifi_only">Solo Wi-Fi</string>
@@ -2229,14 +2157,12 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="wifi_calling_settings_title">Chiamta Wi-Fi</string>
     <string name="wifi_cant_connect">"Impossibile collegarsi"</string>
     <string name="wifi_cant_connect_to_ap">"Impossibile collegarsi a '%1$s'"</string>
-    <string name="wifi_check_password_try_again">Controlla la password e prova di nuovo</string>
     <string name="wifi_connected_no_internet">Connesso, internet assente</string>
     <string name="wifi_coverage_extend">Attiva la funzione di copertura Wi-Fi estesa</string>
     <string name="wifi_coverage_extend_summary">Attiva l\'estensione di copertura Wi-Fi usanto l\'Hotspot</string>
     <string name="wifi_disabled_by_recommendation_provider">Non connesso a causa di scarsa qualità della rete</string>
     <string name="wifi_disabled_generic">Disattivato</string>
     <string name="wifi_disabled_network_failure">Configurazione IP fallita</string>
-    <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
     <string name="wifi_disabled_wifi_failure">Connessione Wi-Fi fallita</string>
     <string name="wifi_disconnected">Disconnesso</string>
     <string name="wifi_display_certification">Certificazione schermo wireless</string>
@@ -2309,7 +2235,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="wificall_switch_title">Effettua chiamate utilizzando la rete Wi-Fi</string>
     <string name="wild_prompt_str">Sostituire carattere con</string>
     <string name="window_animation_scale_title">Scala animazione finestre</string>
-    <string name="wrong_password">Password errata</string>
     <string name="zen_alarm_warning">"Non sentirai la prossima sveglia %1$s"</string>
     <string name="zen_alarm_warning_indef">"Non sentirai la prossima sveglia %1$s se prima non disativi questa funzione"</string>
     <string name="zen_interruption_level_priority">Solo priorità</string>

@@ -38,9 +38,6 @@
     <string name="menu_title_current_version_log">Cosa c\'è di nuovo?</string>
     <string name="menu_title_pick_rom_file">Scegli pacchetto di aggiornamento</string>
     <string name="menu_title_recovery">Riavvia in recovery</string>
-    <string name="message_checkbox">Nascondi messaggi futuri dal team di Xiaomi.eu</string>
-    <string name="message_checkbox_device">Non mostrare più</string>
-    <string name="message_title">NOTA!</string>
     <string name="new_version">Nuova versione trovata!</string>
     <string name="no_info">Nessuna informazione disponibile.</string>
     <string name="no_mirror">Tutti i mirror sono attualmente offline, prova più tardi…</string>
