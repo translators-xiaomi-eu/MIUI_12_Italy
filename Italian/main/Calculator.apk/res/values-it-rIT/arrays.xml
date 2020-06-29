@@ -1,6 +1,194 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="">
+    <string-array name="height_array">
+        <item>Centimetri</item>
+        <item>Metri</item>
+        <item>Piedi</item>
+        <item>Pollici</item>
+    </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Rate costanti</item>
+        <item>Rate decrescenti</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>parentesi aperta</item>
+        <item>parentesi chiusa</item>
+        <item>fattoriale</item>
+        <item>logaritmo naturale</item>
+        <item>logaritmo</item>
+        <item>radice quadrata</item>
+        <item>diviso per</item>
+        <item>moltiplicato per</item>
+        <item>più</item>
+        <item>meno</item>
+        <item>punto</item>
+        <item>potenza</item>
+        <item>tangente</item>
+        <item>seno</item>
+        <item>coseno</item>
+        <item>pi</item>
+        <item>uguale a</item>
+    </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>CNY</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Chilogrammi</item>
+        <item>Libbre</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="operators">
+        <item>(</item>
+        <item>)</item>
+        <item>!</item>
+        <item>ln</item>
+        <item>log</item>
+        <item>√</item>
+        <item>÷</item>
+        <item>×</item>
+        <item>+</item>
+        <item>−</item>
+        <item>.</item>
+        <item>^</item>
+        <item>tan</item>
+        <item>sin</item>
+        <item>cos</item>
+        <item>π</item>
+        <item>=</item>
+    </string-array>
+    <string-array name="unit_data_order_area_">
+        <item>km²</item>
+        <item>ha</item>
+        <item>are</item>
+        <item>m²</item>
+        <item>dm²</item>
+        <item>cm²</item>
+        <item>mm²</item>
+        <item>um²</item>
+        <item>acre</item>
+        <item>mi²</item>
+        <item>yd²</item>
+        <item>ft²</item>
+        <item>in²</item>
+        <item>rd²</item>
+        <item>qing</item>
+        <item>mu</item>
+        <item>chi²</item>
+        <item>cun²</item>
+    </string-array>
+    <string-array name="unit_data_order_length_">
+        <item>km</item>
+        <item>m</item>
+        <item>dm</item>
+        <item>cm</item>
+        <item>mm</item>
+        <item>um</item>
+        <item>nm</item>
+        <item>pm</item>
+        <item>dm</item>
+        <item>nmi</item>
+        <item>mi</item>
+        <item>fur</item>
+        <item>fm</item>
+        <item>yd</item>
+        <item>ft</item>
+        <item>in</item>
+        <item>gongli</item>
+        <item>li</item>
+        <item>zhang</item>
+        <item>chi</item>
+        <item>cun</item>
+        <item>fen</item>
+        <item>lii</item>
+        <item>hao</item>
+        <item>pc</item>
+        <item>ld</item>
+        <item>au</item>
+        <item>ly</item>
+    </string-array>
+    <string-array name="unit_data_order_radix">
+        <item>2</item>
+        <item>8</item>
+        <item>10</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="unit_data_order_temperature_">
+        <item>C</item>
+        <item>F</item>
+        <item>K</item>
+        <item>R</item>
+        <item>Re</item>
+    </string-array>
+    <string-array name="unit_data_order_time_">
+        <item>anno</item>
+        <item>settimana</item>
+        <item>giorno</item>
+        <item>ora</item>
+        <item>min</item>
+        <item>s</item>
+        <item>ms</item>
+        <item>us</item>
+        <item>ps</item>
+    </string-array>
+    <string-array name="unit_data_order_velocity_">
+        <item>c</item>
+        <item>mach</item>
+        <item>mps</item>
+        <item>kmph</item>
+        <item>kmps</item>
+        <item>nmiph</item>
+        <item>mileph</item>
+        <item>fps</item>
+        <item>ips</item>
+    </string-array>
+    <string-array name="unit_data_order_volume_">
+        <item>m³</item>
+        <item>dm³</item>
+        <item>cm³</item>
+        <item>mm³</item>
+        <item>hl</item>
+        <item>l</item>
+        <item>dl</item>
+        <item>cl</item>
+        <item>ml</item>
+        <item>ft³</item>
+        <item>in³</item>
+        <item>yd³</item>
+        <item>af³</item>
+    </string-array>
+    <string-array name="unit_data_order_weight_">
         <item>t</item>
         <item>kg</item>
         <item>g</item>

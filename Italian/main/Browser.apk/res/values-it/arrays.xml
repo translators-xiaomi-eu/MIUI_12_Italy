@@ -1,6 +1,65 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="">
+     <string-array name="pref_fling_gesture_entries">
+        <item>Pagina precedente</item>
+        <item>Cambia scheda</item>
+        <item>None</item>
+     </string-array>
+     <string-array name="pref_homepage_choices">
+        <item>Predefinita</item>
+        <item>Personalizza</item>
+     </string-array>
+     <string-array name="pref_nav_mode_summary">
+        <item>Telefono</item>
+        <item>Tablet</item>
+     </string-array>
+     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Visualizzazione verticale</item>
+        <item>Visualizzazione orizzontale</item>
+     </string-array>
+     <string-array name="pref_tab_restore_array">
+        <item>Chiedi sempre</item>
+        <item>Apri</item>
+        <item>Chiudi</item>
+     </string-array>
+     <string-array name="pref_text_zoom_choices">
+        <item>Molto piccolo</item>
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Molto grande</item>
+     </string-array>
+     <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+     </string-array>
+     <string-array name="readmode_theme_background_color">
+        <item>bianco</item>
+        <item>beige</item>
+        <item>marrone</item>
+        <item>verde</item>
+        <item>grigio</item>
+        <item>nero</item>
+     </string-array>
+     <string-array name="shortcut_dialog_delete">
+        <item>Cancella</item>
+        <item>No</item>
+     </string-array>
+     <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Segui</item>
+     </string-array>
+     <string-array name="shortcut_dialog_title">
+        <item>Messaggio dal browser</item>
+        <item>Segui le Olimpiadi con Xiaomi</item>
+     </string-array>
+     <string-array name="suggestion_topic_tips">
+        <item>Visione focalizzata</item>
+        <item>Pubblicazioni di rilievo</item>
+     </string-array>
+     <string-array name="suggestion_weather_condition_message">
         <item>Sereno</item>
         <item>Parzialmente nuvoloso</item>
         <item>Nuvoloso</item>
@@ -44,5 +103,5 @@
         <item>Niente</item>
         <item>Pioggia</item>
         <item>Neve</item>
-    </string-array>
+     </string-array>
 </resources>

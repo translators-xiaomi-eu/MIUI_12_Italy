@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="bluetooth_connected">Connesso</string>
-    <string name="bluetooth_connected_no_a2dp">Collegato (contenuti multimed. esclusi)</string>
-    <string name="bluetooth_connected_no_headset">Collegato (dispositivo escluso)</string>
+	<string name="bluetooth_connected">Connesso</string>
+	<string name="bluetooth_connected_no_a2dp">Collegato (contenuti multimed. esclusi)</string>
+	<string name="bluetooth_connected_no_headset">Collegato (dispositivo escluso)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Collegato (telef. o conten. mult. esclusi)</string>
     <string name="bluetooth_connected_no_map">Collegato (nessun accesso ai messaggi)</string>
 </resources>
