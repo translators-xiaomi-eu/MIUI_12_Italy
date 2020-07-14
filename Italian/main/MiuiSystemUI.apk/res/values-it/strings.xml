@@ -543,7 +543,6 @@ Frequenza Campione"</string>
     <string name="connected_via_network_scorer_default">Connesso automaticamente tramite provider rating di rete</string>
     <string name="connected_via_passpoint">Connesso tramite %1$s</string>
     <string name="content_description_menu_button">Premi Menu</string>
-    <string name="control_quick_settings_tiles_super_save">gps,nfc,screenshot,vibrate</string>
     <string name="convert_to_fbe_warning">"Converti partizione dati a file basato su crittografia.
  !!Attenzione!! Questa procedura cancellerà tutti i tuoi dati.
  Questa funzionalità è in stadio alpha, e potrebbe non funzionare correttamente.
@@ -1355,7 +1354,6 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="plugins">Plugin</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
-    <string name="power_charging_duration">%1$s - %2$s fino al completamento</string>
     <string name="power_discharge_by">Dovrebbe durare circa fino al %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare almeno fino a %1$s in base al tuo utilizzo (%2$s)</string>
     <string name="power_discharge_by_only">Dovrebbe durare circa fino a %1$s</string>
@@ -1539,8 +1537,6 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_sim_disabled">" (Disabilitata)"</string>
     <string name="quick_settings_sync_label">Sincr.</string>
     <string name="quick_settings_tethering_label">Tethering</string>
-    <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
-    <string name="quick_settings_tiles_super_save">cell,wifi,bt,gps,vibrate</string>
     <string name="quick_settings_time_label">Tempo</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Per aggiungere un elemento premi e tieni premuto, quindi trascinalo nella parte superiore del pannello.</string>
     <string name="quick_settings_user_label">Io</string>
